@@ -4,6 +4,13 @@ A machine learning-powered web application that predicts a student's final grade
 
 ---
 
+## 🌐 Live Demo
+
+Try the app live on Streamlit Cloud:  
+👉 https://perfomance-predictor.streamlit.app/
+
+---
+
 ## 📊 About the Dataset
 
 This project uses the Student Performance Dataset from the UCI Machine Learning Repository. The dataset contains student records collected from two Portuguese schools and includes attributes related to:
@@ -61,13 +68,6 @@ Each model was trained using 7 selected features chosen based on feature importa
 | internet     | Internet access at home (yes or no)             |
 
 These features were selected for being both accessible to users and highly influential in grade prediction.
-
----
-
-## 🌐 Live Demo
-
-Try the app live on Streamlit Cloud:  
-👉 https://student-grade-predictor.streamlit.app
 
 ---
 
